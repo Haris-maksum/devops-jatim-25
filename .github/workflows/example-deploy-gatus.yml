@@ -2,7 +2,7 @@ name: Example Gatus' Job (2/2) - Deploy Gatus
 
 # FILL THE MISSING VALUES BELOW
 on:
-  workflow_dispatch:
+  workflow_dispatch: 
 
 env:
   AWS_REGION:
